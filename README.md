@@ -17,8 +17,8 @@ I'm a passionate Full Stack Developer with expertise in designing and building s
   A full-stack web application that helps connect pets with adopters. Developed using ASP.NET Core for the backend, React for the frontend, and SQL Server for the database. Features role-based authentication, image handling, and a responsive design.
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dixhansh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dixhansh&layout=compact&theme=radical)
 
 ### 📫 How to Reach Me:
 
